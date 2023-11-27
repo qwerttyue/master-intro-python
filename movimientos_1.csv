@@ -1,21 +1,33 @@
 id,cantidad,fecha,usuario,tipo,descripcion
-00000,150.39,2023-11-21 14:39:43,Laura,Otros,
-00001,904.02,2023-11-19 20:05:59,Juan,Ocio,
-00002,1259.13,2023-11-20 23:05:30,Juan,Otros,
-00003,1712.01,2023-11-24 11:57:35,Gema,Otros,
-00004,386.14,2023-11-21 22:53:45,Laura,Alimentacion,Bar xxx
-00005,1427.76,2023-11-21 00:43:10,Pedro,Alimentacion,Compra en Carrefour
-00006,1162.28,2023-11-23 11:19:19,Cristina,Alimentacion,Bar xxx
-00007,1203.14,2023-11-19 18:43:50,Juan,Alimentacion,Compra en Carrefour
-00008,1379.51,2023-11-23 07:28:44,Cristina,Ocio,
-00009,1423.54,2023-11-24 01:51:36,Laura,Otros,
-00010,787.83,2023-11-24 17:28:55,Pedro,Ocio,
-00011,677.09,2023-11-23 14:20:52,Cristina,Alimentacion,Compra en Carrefour
-00012,280.19,2023-11-21 00:12:44,Laura,Alimentacion,Restaurante Yyy
-00013,988.01,2023-11-21 08:00:41,Cristina,Ocio,
-00014,1553.31,2023-11-23 01:10:26,Laura,Otros,
-00015,686.76,2023-11-20 14:24:56,Juan,Otros,
-00016,396.94,2023-11-24 18:38:02,David,Alimentacion,Bar xxx
-00017,536.14,2023-11-22 19:00:42,David,Ocio,
+00000,150.39,2023-11-21 14:39:43,Laura,Otros,Recibo Movistar
+00001,94.02,2023-11-19 20:05:59,Juan,Alimentacion,Restaurante Jjjj
+00001,44.02,2023-11-18 20:05:59,Juan,Otros,Compra Ikea
+00002,259.13,2023-11-20 23:05:30,Juan,Otros,Pago Impuestos
+00003,412.01,2023-11-20 11:57:35,Gema,Otros,Pago Impuestos
+00004,186.14,2023-11-21 22:53:45,Laura,Alimentacion,Restaurante Jjjj
+00005,142.76,2023-11-21 00:43:10,Pedro,Alimentacion,Compra en Carrefour
+00006,162.28,2023-11-23 14:19:19,Cristina,Alimentacion,Bar xxx
+00007,203.14,2023-11-19 18:43:50,Juan,Alimentacion,Compra en Carrefour
+00008,379.51,2023-11-20 07:28:44,Cristina,Otros,Pago Impuestos
+00009,423.54,2023-11-20 01:51:36,Laura,Otros,Pago Impuestos
+00010,187.83,2023-11-20 17:28:55,Pedro,Otros,Pago Impuestos
+00011,277.09,2023-11-18 14:20:52,Cristina,Alimentacion,Compra en Carrefour
+00012,80.19,2023-11-18 00:12:44,Laura,Alimentacion,Restaurante Yyy
+00013,88.01,2023-11-21 08:00:41,Cristina,Ocio,
+00014,15.31,2023-11-23 01:10:26,Laura,Otros,
+00015,86.76,2023-11-20 14:24:56,Juan,Alimentacion,Bar xxx
+00016,86.94,2023-11-24 18:38:02,David,Alimentacion,Bar xxx
+00017,36.14,2023-11-22 19:00:42,David,Ocio,
 00018,45.39,2023-11-24 22:32:54,Gema,Ocio,
-00019,1242.1,2023-11-24 13:12:57,Cristina,Ocio,
+00019,42.1,2023-11-24 13:12:57,Cristina,Ocio,
+00020,80.50,2023-11-18 02:12:44,Laura,Alimentacion,
+00021,16.00,2023-11-18 04:24:56,Juan,Otros,
+00022,89.26,2023-11-19 18:25:44,Laura,Alimentacion,Compra en Mercadona
+00023,18.31,2023-11-23 15:10:26,Laura,Alimentacion,Restaurante Yyy
+00024,42.01,2023-11-19 11:57:35,Gema,Alimentacion,Compra en Mercadona
+00025,22.01,2023-11-23 19:57:35,Gema,Alimentacion,Compra en Alcampo
+00026,10.99,2023-11-23 02:57:35,Gema,Ocio,Spotify
+00027,10.99,2023-11-20 17:28:55,Pedro,Ocio,Spotify
+00028,12.99,2023-11-20 14:28:55,Pedro,Ocio,Neflix
+00029,16.14,2023-11-22 19:00:42,David,Otros,Farmacia
+00030,66.14,2023-11-22 19:45:42,David,Alimentacion,Compra en Mercadona
